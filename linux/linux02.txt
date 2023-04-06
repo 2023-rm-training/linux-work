@@ -1,0 +1,42 @@
+/**
+* work02
+* you should read this request and finish the work behind the `Answer:`
+* 
+* In this process, the requirements that appear in the question must be reflected in your 'push',
+* such as creating a folder, then you have to do the corresponding action in the repository and 'push'
+* it after completion
+*/
+
+1.In the folder, you can see a .tar file named 'src-o2.tar.gz', now you must use command to unzip it, you should:
+
+Answer:
+
+Challenge: You can entry the unzip-folder, and run a command 'make run'
+
+2.You should put the 'src-02' into 'src' folder, you should
+
+Answer:
+
+3.You think the name 'src-02' is inappropriate, change it to the spelling of your name, you should
+
+Answer:
+
+4.Now try to package a folder in '.zip' format, you should
+
+Answer:
+
+5.You can see that you package it but the source file still exist, but you want to remove it, you should
+
+Answer:
+
+6.You want to install a software 'neofetch', you should
+
+Answer:
+
+7.You want to install a software 'tree', and use the command print ours folder
+
+Answer: (please paste the result)
+
+/**
+* Conguratulation! The second task is completed
+*/

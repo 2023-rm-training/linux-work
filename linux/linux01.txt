@@ -1,0 +1,54 @@
+/**
+* work01
+* you should read this request and finish the work behind the `Answer:`
+* 
+* In this process, the requirements that appear in the question must be reflected in your 'push',
+* such as creating a folder, then you have to do the corresponding action in the repository and 'push'
+* it after completion
+*/
+
+1.If you want to view what's in the current folder, you should 
+
+Answer: 
+
+2.If you want to check the hide-file, you should
+
+Answer:
+
+3.Now you want to change your work space(just like switch to another folder), you should
+
+Answer:
+
+4.If you are in a deep-folder(just like many folder nested with each other), but you think use the path are too much effort, you should
+
+Answer:
+
+5.Now suppose I give you a file 'hello.c', please check what's in the file, you should
+
+Answer:
+
+Challegnge: Are there any other ways? How many you can write?
+
+6.If you forget the work space path, but you want to get it, you should
+
+Answer:
+
+7.Now you should create a folder named your name's spell(must be performed in the corresponding folder), you should
+
+Answer:
+
+8.Then, you should entry the folder, and create a file named 'hello.c' or 'hello.py', you should
+
+Answer:
+
+9.Finally, you must use 'vim' to edit the file which you created, and run and print 'Hello Computer Vision!', you should
+
+Answer:
+
+10.Now you want to make a backup of this file, backup-file named 'hello.c.bak', you should
+
+Answer:
+
+/**
+* Congratulations! The first task is completed. It's simple and funny all right?
+*/

@@ -1,0 +1,42 @@
+/**
+* work03
+* you should read this request and finish the work behind the `Answer:`
+* 
+* In this process, the requirements that appear in the question must be reflected in your 'push',
+* such as creating a folder, then you have to do the corresponding action in the repository and 'push'
+* it after completion
+*/
+
+1.Now you must write a string 'Hello Computer Vision' into a file, but you can't open the file, you should
+
+Answer:
+
+2.Now you must write some string(least 5 times) 'Hello Computer Vision' into another file, but you can't open the file, you should
+
+Answer:
+
+Challenge: In fact, there are some more convenient ways to do it, can you figure it?
+
+3.Please use the command 'man man', and read the page, then write your feeling
+
+Answer:
+
+4.Please use the 'man', search and read the page 'printf', then write something you understand and what you learnd
+
+Answer:
+
+5.write a python file, and realize 'add' module
+
+Answer:
+
+Challenge: You can code a 'add', then you can code a calculator, just do it!
+
+6.write a c/c++ file, and realize 'add' module (Option)
+
+Answer: (must header and source file separation)
+
+Challenge: You can code a 'add', then you can code a calculator, just do it!
+
+/**
+* Conguratulation! The second task is completed
+*/
