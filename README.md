@@ -20,10 +20,10 @@
 
 ## 相关学习资源  
 
-- (可视化Git教程)[https://learngitbranching.js.org/?local=zh_CN]  **目前只支持笔记本/台式**  
+- [视化Git教程](https://learngitbranching.js.org/?local=zh_CN)  **目前只支持笔记本/台式**  
   - 一个可视化的Git教程，很不错的学习方式  
-- (Linux基本十大命令)[https://blog.csdn/net/qq_40588512/article/details/104331701]  
+- [Linux基本十大命令](https://blog.csdn/net/qq_40588512/article/details/104331701)  
   - 一个基础的Linux命令教学博客，值得一看
-- (Linux基本命令大全)[https://www.cnblogs.com/yjd_hycf_space/p/7730690.html]
+- [Linux基本命令大全](https://www.cnblogs.com/yjd_hycf_space/p/7730690.html)
 
 > 如果你在学习过程中，有发现不错的学习文章可以私信我，我下来补充哦
